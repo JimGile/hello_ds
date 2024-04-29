@@ -1,1 +1,6 @@
 .conda/*
+bokeh_tut/__pycache__/__init__.cpython-311.pyc
+bokeh_tut/data/__pycache__/__init__.cpython-311.pyc
+bokeh_tut/notebooks/__pycache__/__init__.cpython-311.pyc
+bokeh_tut/notebooks/__pycache__/tutorial_data.cpython-311.pyc
+bokeh_tut/data/__pycache__/carriers_data.cpython-311.pyc
